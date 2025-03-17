@@ -1,5 +1,8 @@
-Flask
-googletrans==4.0.0-rc1
+flask
+googletrans
 ffmpeg-python
-whisper
+openai-whisper
 pydub
+faster-whisper
+pysrt
+werkzeug
